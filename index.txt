@@ -1,0 +1,9 @@
+1. What type of resources can you host with Express?
+A lot of node functions and node packages as well as frameworks and other tools. 
+
+2. What are the benefits of using a View Engine over using Vanilla technologies?
+Its connected already and gives you real time changes when anything is edited. 
+
+3. Why does the Express Generator split up the functionality into so many files?
+It is split it into many files because it is desinged to single page or multi page applications.
+It also sets you up to start and build an app with a lot of the files you might need. 
